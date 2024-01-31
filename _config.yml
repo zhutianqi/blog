@@ -1,7 +1,7 @@
 # Site
 name: "blog"
 title: "blog"
-description: "Welcome~ Have a nice day!"
+description: "Welcome~ Have a nice day! 情况就是我要把以前的东西move到这个网站 期待一下"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: '/blog'
